@@ -1,6 +1,6 @@
 #### These procedure steps will be followed on the simulator
 
-1. In simulation window the experimental setup for determination of motor thrust is shown in isometric view.Click on the ARROW button to “start the simulation”
+1. In simulation window the experimental setup for determination of motor thrust is shown in isometric view. Click on the ARROW button to “start the simulation”
 ![alt text](./Images/Capture1.png)
 2. Click on the apparatus to place the equipment.
 ![alt text](./Images/Capture2.png)
