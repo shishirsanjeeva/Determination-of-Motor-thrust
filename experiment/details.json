@@ -1,0 +1,73 @@
+{
+
+   "details": [
+       {
+			"Experiment": "Determination of motor thrust",
+			"Lab": "UAV",
+			"Discipline": "Mechanical Engineering",
+			"Technology": "HTML, Javascript, CSS, JQuery"
+       }
+   ],
+
+   "developer": [
+       {
+      "Developer": "Dr. Pruthviraj U",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK"
+       }
+   ],
+
+    "contributer": [
+       {
+			"Contributer": "Akshaya",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK"
+       },
+
+       {
+       "Contributer": "Aishwarya Shetty",
+       "Institute": "National Institute of Technology Karnataka, Surathkal",
+       "InstituteAcronym": "NITK"
+       },
+
+       {
+     "Contributer": "Anusha B Salian",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK"
+       },
+
+
+       {
+			"Contributer": "Adbul Shameer",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK"
+       },
+
+       {
+			"Contributer": "Shishir S",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK"
+       },
+
+       {
+			"Contributer": "Jaison DSouza B",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK"
+       },
+
+   		 {
+			"Contributer": "Haneena",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK"
+       },
+
+      {
+			"Contributer": "Lathesh S Shetty",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK"
+       }
+
+
+   ]
+
+}
