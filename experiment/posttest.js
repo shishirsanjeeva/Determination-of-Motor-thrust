@@ -79,45 +79,35 @@
 // Write your MCQs here --- Start --- --------------------
   const myQuestions = [
     {
-      question: "Why is the rim type of flywheel used over the disc type of flywheel?",
+      question: " Equipment used to measure the thrust is",
       answers: {
-        a: "Rim type has less weight compared to disc type of flywheel",
-        b: "Rim type has more weight compared to disc type of flywheel",
-        c: "Disc type of flywheel has more weight than rim type",
+        a: "Thrustmeter",
+        b: "Tachometer",
+        c: "Both",
         d: "None of the above"
       },
       correctAnswer: "a"
     },
     {
-      question: "The ratio of maximum fluctuation of speed to the mean speed is called",
+      question: " When the RPM of the motor is increased,",
       answers: {
-        a: "Fluctuation of speed",
-        b: "Maximum fluctuation of speed",
-        c: "Coefficient of fluctuation of speed",
-        d: "None of the above"
-      },
-      correctAnswer: "c"
-    },
-    {
-      question: "The difference the maximum and minimum speeds during a cycle is called",
-      answers: {
-        a: "Fluctuation of speed",
-        b: "Maximum fluctuation of speed",
-        c: "Coefficient of fluctuation of speed",
+        a: "Thrust remains same",
+        b: "Thrust increases",
+        c: "Thrust decreases",
         d: "None of the above"
       },
       correctAnswer: "b"
     },
     {
-      question: "A flywheel connected to a punching machine has to supply energy of 160 Nm while running at a mean angular speed of 12rad/s. If the total fluctuation of speed is not exceeded to ±1.75%, the mass moment of inertia of the flywheel in kgm2 is",
+      question: "When the propeller diameter and pitch decreases",
       answers: {
-        a: "56.25",
-        b: "135.39",
-        c: "31.75",
-        d: "23.95"
-      },
+        a: "Thrust remains same",
+        b: "Thrust increases",
+        c: "Thrust decreases",
+        d: "None of the above"
       correctAnswer: "c"
     }
+
   ];
 
 

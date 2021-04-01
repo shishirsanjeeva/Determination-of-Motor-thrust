@@ -80,54 +80,34 @@
 
 const myQuestions = [
   {
-    question: "What is the value of the radius of gyration of disc type flywheel as compared to a rim type flywheel for the same diameter?",
+    question: "What does UAV stand for ",
     answers: {
-      a: "<img src=\'images\/equations\/q1.png' title='\\sqrt2\'\/> times",
-      b: "<img src=\'images\/equations\/q2.png' title='\\frac{1}{2}\'\/> times",
-      c: "2 times",
-      d: "<img src=\'images\/equations\/q3.png' title='\\frac{1}{\sqrt2}\'\/> times"
+      a: "Unmanned Aerial Vehicle",
+      b:"Unmanned Aircraft Vehicle",
+      c: "Utility Aerial Vehicle",
+      d: "Utility Aircraft Vehicle"
     },
-    correctAnswer: "d"
+    correctAnswer: "a"
   },
 
   {
-    question: "In the case of a flywheel, the maximum fluctuation energy is the",
+    question: "The distance a propeller would move in one revolution if it were moving through a soft solid, like a screw through wood is the",
     answers: {
-      a: "ratio of the maximum and minimum energy",
-      b: "ratio of the minimum and maximum energy",
-      c: "difference between the maximum and minimum energies",
-      d: "sum of maximum and minimum energies"
-    },
-    correctAnswer: "c"
-  },
-
-  {
-    question: "What is the moment of inertia of disc type of flywheel?",
-    answers: {
-      a: "I= Mr<sup>2</sup>",
-      b: "I=0.5∗Mr<sup>2</sup>",
-      c: "I=2∗Mr<sup>2</sup>",
-      d: "I=0.4∗Mr<sup>2</sup>"
+      a: "Blade angle",
+      b: "Pitch",
+      c: "Chord",
+      d:"None of the above",
     },
     correctAnswer: "b"
   },
+
   {
-    question: "Which of the following statements are correct?<br>Statement A: To absorb energy when demand of energy is less than the supply<br>Statement B: To give out energy when demand of energy is more than the supply.",
+    question: "Kv in motor specification stands for",
     answers: {
-      a: "A is correct and B is wrong",
-      b: "B is correct and A is wrong",
-      c: "Both A and B are correct",
-      d: "Both A and B are wrong"
-    },
-    correctAnswer: "c"
-  },
-  {
-    question: "What is the value of the radius of gyration of the disc type flywheel as compared to rim type flywheel for the same diameter?",
-    answers: {
-      a: "<img src=\'images\/equations\/q4.png' title='\\frac{21}{2}\' \/> times",
-      b: "<img src=\'images\/equations\/q5.png' title='\\frac{1}{\\frac{21}{2}}\'\/> times",
-      c: "2 times",
-      d: "<img src=\'./images\/equations/q6.png' title='\\frac{1}{2}\'\ /> times"
+      a: "KiloVolt",
+      b: "Number of revolutions per volt",
+      c: "Both",
+      d: "None of the above",
     },
     correctAnswer: "b"
   }
