@@ -28,7 +28,7 @@ The students know the concept.
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| Define the need for measuring the thrust of a motor.| Remember  |  Defne
+1.| Define the need for measuring the thrust of a motor.| Remember  |  Define
 2.| Demonstrate the mounting of parts and electric connections for conducting the experiment  | Understand |  Demonstrate
 3.| Compare the thrust values of different motor propeller combinations | Analyze  | Compare
 
