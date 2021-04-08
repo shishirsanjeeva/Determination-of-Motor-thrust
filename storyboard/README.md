@@ -12,7 +12,7 @@
 
   The start up page shows all the equipments that will be used for this experiment. The user needs to click on the equipment name in order to get the details of it and place it on the table. Once all the equipments are placed, the type of motor to be used as well as the propeller needs to be selected. Later on the electrical connection needs to be done in order. On completion of the circuit, DC power supply needs to be switched on and the  speed can be adjusted by clicking on the throttle knob. The RPM values as well as the thrust can be seen in the comment box. The user can select another motor propeller combination in order to compare.
 
-  **2.2 Set User Obectives & Goals**:<br>
+  **2.2 Set User Objectives & Goals**:<br>
 <li>The primary objective of the experiment is to find the  thrust of the motor.</li>
 <li>To understand the experiment setup  and the electric connections.</li>
 <li>To infer how the thrust changes for the different propellers.</li>
